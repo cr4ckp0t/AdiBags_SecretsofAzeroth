@@ -6,6 +6,7 @@
 ## Secrets of Azeroth Items
 *As items are added every day I will update the filters.*
 
+* [A Clue: The Thinking Cap](https://wowhead.com/item=206944)
 * [A Mystery Box](https://wowhead.com/item=208054)
 * [Apexis Asiago](https://wowhead.com/item=201419)
 * [Blue Tweed Cap](https://wowhead.com/item=208150)

@@ -17,6 +17,7 @@ function secretsFilter:OnInitialize()
         [201419] = true, -- Apexis Asiago
         [205693] = true, -- Latticed Stinkhorn
         [206696] = true, -- Tricked-Out Thinking Cap
+        [206944] = true, -- A Clue: The Thinking Cap
         [207105] = true, -- Tuskarr Ceremonial Spear
         [207580] = true, -- Shomko's Unyielding Spear
         [207802] = true, -- Thinking Cap Notes
