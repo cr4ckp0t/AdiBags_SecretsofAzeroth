@@ -13,25 +13,38 @@ secretsFilter.uiDesc = L["AdiBags filter for items from the Secrets of Azeroth e
 
 function secretsFilter:OnInitialize()
     self.secrets = {
+        -- Clue 1: The Preservationist
+        [208054] = true, -- A Mystery Box
+        [208055] = true, -- Golden Chalice
+        [208056] = true, -- A Clue: The Golden Chalice
+
+        -- Clue 2: Ceremonial Spear
+        [207105] = true, -- Tuskarr Ceremonial Spear
+        [207580] = true, -- Shomko's Unyielding Spear
+        [208190] = true, -- The Elder's Drawing
+
+        -- Clue 3: Thinking Cap
         [198441] = true, -- Thunderspine Tenders
         [201419] = true, -- Apexis Asiago
         [205693] = true, -- Latticed Stinkhorn
         [206696] = true, -- Tricked-Out Thinking Cap
         [206944] = true, -- A Clue: The Thinking Cap
-        [207105] = true, -- Tuskarr Ceremonial Spear
-        [207580] = true, -- Shomko's Unyielding Spear
         [207802] = true, -- Thinking Cap Notes
         [207812] = true, -- Fresh Tyranha
         [207813] = true, -- Downy Helmet Liner
         [207814] = true, -- Thought Calculating Apparatus
         [207816] = true, -- Crystal Ocular Lenses
         [207956] = true, -- Thunderspine Nest
-        [208054] = true, -- A Mystery Box
-        [208055] = true, -- Golden Chalice
+        
+        -- Clue 4: Inside Job
+        [208128] = true, -- Fangli's Note
+        [208129] = true, -- Copied Artifact Storage Key
+        [208130] = true, -- Maruuk Burial Banner
+
+        -- Rewards
         [208149] = true, -- Brown Tweed Cap
         [208150] = true, -- Blue Tweed Cap
         [208152] = true, -- Pattie's Cap
-        [208190] = true, -- The Elder's Drawing
         [208416] = true, -- Thunderspine Nest Shopping List
     }
 end
