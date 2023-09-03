@@ -41,6 +41,14 @@ function secretsFilter:OnInitialize()
         [208129] = true, -- Copied Artifact Storage Key
         [208130] = true, -- Maruuk Burial Banner
 
+        -- Clue 5: Torch of Pyrreth
+        [208092] = true, -- Torch of Pyrreth
+        [208107] = true, -- Kathos' Field Glasses
+        [208131] = true, -- Preservationist's Dispatch
+
+        -- Community Satchels
+        [208142] = true, -- Buried Satchel
+
         -- Rewards
         [208149] = true, -- Brown Tweed Cap
         [208150] = true, -- Blue Tweed Cap
