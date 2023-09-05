@@ -46,6 +46,10 @@ function secretsFilter:OnInitialize()
         [208107] = true, -- Kathos' Field Glasses
         [208131] = true, -- Preservationist's Dispatch
 
+        -- Clue 6: A Chilling Ascent
+        [208137] = true, -- The Clerk's Notes
+        [208143] = true, -- Unveiled Tablet Rubbing
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 

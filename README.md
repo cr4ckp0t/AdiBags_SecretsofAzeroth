@@ -35,7 +35,7 @@
 * [Thunderspine Tenders](https://www.wowhead.com/item=198441)
 * [Tricked-Out Thinking Cap](https://www.wowhead.com/item=206696)
 
-### Clue 4: Inside Job
+### Clue 4: An Inside Job?
 
 * [Copied Artifact Storage Key](https://www.www.wowhead.com/item=208129)
 * [Fangli's Note](https://www.wowhead.com/item=208128)
@@ -46,6 +46,10 @@
 * [Kathos' Field Glasses](https://www.wowhead.com/item=208107)
 * [Preservationist's Dispatch](https://www.wowhead.com/item=208131)
 * [Torch of Pyrreth](https://www.wowhead.com/item=208092)
+
+### Clue 6: A Chilling Ascent
+* [The Clerk's Notes](https://wwww.wowhead.com/item=208137)
+* [Unveiled Tablet Rubbing](https://www.wowhead.com/item=208143)
 
 ## Community Satchels
 
