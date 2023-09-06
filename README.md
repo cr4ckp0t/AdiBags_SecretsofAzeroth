@@ -51,6 +51,11 @@
 * [The Clerk's Notes](https://wwww.wowhead.com/item=208137)
 * [Unveiled Tablet Rubbing](https://www.wowhead.com/item=208143)
 
+### Clue 7: The Idol of Ohn'ahra
+* [Idol of Ohn'ahra (Quest Item)](https://www.wowhead.com/item=208145)
+* [Idol of Ohn'ahra (Toy)](https://www.wowhead.com/item=207730)
+* [Preservationist's Dispatch Two](https://www.wowhead.com/item=208144)
+
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)

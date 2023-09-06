@@ -50,6 +50,11 @@ function secretsFilter:OnInitialize()
         [208137] = true, -- The Clerk's Notes
         [208143] = true, -- Unveiled Tablet Rubbing
 
+        -- Clue 7: The Idol of Ohn'ahra
+        [207730] = true, -- Idol of Ohn'ahra (Toy)
+        [208144] = true, -- Preservationist's Dispatch Two
+        [208145] = true, -- Idol of Ohn'ahra (Quest Item)
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 
