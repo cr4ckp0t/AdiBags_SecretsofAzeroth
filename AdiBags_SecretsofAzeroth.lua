@@ -55,6 +55,11 @@ function secretsFilter:OnInitialize()
         [208144] = true, -- Preservationist's Dispatch Two
         [208145] = true, -- Idol of Ohn'ahra (Quest Item)
 
+        -- Clue 8: Shifting Sands
+        [206948] = true, -- A Clue: The Shifting Sands
+        [208146] = true, -- Incomplete Tablet
+        [208191] = true, -- Time-Lost Fragment
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 

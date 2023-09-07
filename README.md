@@ -56,6 +56,11 @@
 * [Idol of Ohn'ahra (Toy)](https://www.wowhead.com/item=207730)
 * [Preservationist's Dispatch Two](https://www.wowhead.com/item=208144)
 
+### Clue 8: Shifting Sands
+* [A Clue: The Shifting Sands](https://www.wowhead.com/item=206948)
+* [Incomplete Tablet](https://www.wowhead.com/item=208146)
+* [Time-Lost Fragment](https://www.wowhead.com/item=208191)
+
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)
