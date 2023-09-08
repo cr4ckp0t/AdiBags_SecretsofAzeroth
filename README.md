@@ -69,6 +69,10 @@
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)
 
+## Mimiron's Jumpjet
+
+* [First Booster Part](https://www.wowhead.com/item=208984)
+
 ## Rewards
 
 * [Blue Tweed Cap](https://www.wowhead.com/item=208150)
