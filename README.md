@@ -61,6 +61,10 @@
 * [Incomplete Tablet](https://www.wowhead.com/item=208146)
 * [Time-Lost Fragment](https://www.wowhead.com/item=208191)
 
+### Clue 9: What's in a Mold?
+* [The Blacksmith and the Apprentice](https://www.wowhead.com/item=208486)
+* [Titan Key Mold](https://www.wowhead.com/item=208827)
+
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)

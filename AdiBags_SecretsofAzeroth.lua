@@ -60,6 +60,10 @@ function secretsFilter:OnInitialize()
         [208146] = true, -- Incomplete Tablet
         [208191] = true, -- Time-Lost Fragment
 
+        -- Clue 9: What's in a Mold?
+        [208486] = true, -- The Blacksmith and the Apprenticeb
+        [208827] = true, -- Titan Key Mold
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 
