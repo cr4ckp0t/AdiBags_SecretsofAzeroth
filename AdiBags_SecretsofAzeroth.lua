@@ -64,6 +64,12 @@ function secretsFilter:OnInitialize()
         [208486] = true, -- The Blacksmith and the Apprenticeb
         [208827] = true, -- Titan Key Mold
 
+        -- Clue 10: Forging is Key
+        [208829] = true, -- Titan Key Materials List
+        [208830] = true, -- Reforged Titan Key
+        [208835] = true, -- Rose Gold Dust
+        [208836] = true, -- Igneous Flux
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 

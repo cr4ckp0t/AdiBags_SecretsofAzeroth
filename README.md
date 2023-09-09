@@ -65,6 +65,12 @@
 * [The Blacksmith and the Apprentice](https://www.wowhead.com/item=208486)
 * [Titan Key Mold](https://www.wowhead.com/item=208827)
 
+### Clue 10: Forging is Key
+* [Reforged Titan Key](https://www.wowhead.com/item=208830)
+* [Igneous Flux](https://www.wowhead.com/item=208836)
+* [Rose Gold Dust](https://www.wowhead.com/item=208835)
+* [Titan Key Materials List](https://www.wowhead.com/item=208829)s
+
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)
