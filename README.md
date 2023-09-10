@@ -69,15 +69,23 @@
 * [Reforged Titan Key](https://www.wowhead.com/item=208830)
 * [Igneous Flux](https://www.wowhead.com/item=208836)
 * [Rose Gold Dust](https://www.wowhead.com/item=208835)
-* [Titan Key Materials List](https://www.wowhead.com/item=208829)s
+* [Titan Key Materials List](https://www.wowhead.com/item=208829)
+
+### Clue 11: A Proper Burial
+* [Ishtaar Rethon's Burial Banner](https://www.wowhead.com/item=209061)
+* [Maruuk Burial Banner](https://www.wowhead.com/item=208852)
+* [The Path of Ishtaar Drawing](https://www.wowhead.com/item=208857)
 
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)
 
-## Mimiron's Jumpjet
+## Mimiron's Jumpjets
 
 * [First Booster Part](https://www.wowhead.com/item=208984)
+* [Second Booster Part](https://www.wowhead.com/item=209781)
+* [Third Booster Part](https://www.wowhead.com/item=209055)
+* [Mimiron's Jumpjets](https://www.wowhead.com/item=220022)
 
 ## Rewards
 

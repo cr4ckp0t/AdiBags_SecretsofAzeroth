@@ -23,8 +23,8 @@ if locale == "deDE" then
 	--Translation missing
 elseif locale == "enUS" then
     L["AdiBags filter for items from the Secrets of Azeroth event in World of Warcraft."] = true
-	L["AdiBags filter for the items required to craft the Mimiron's Jumpjet mount."] = true
-	L["Mimiron's Jumpjet"] = true
+	L["AdiBags filter for the items required to craft the Mimiron's Jumpjets mount."] = true
+	L["Mimiron's Jumpjets"] = true
     L["Secrets of Azeroth"] = true
 elseif locale == "esES" then
 	--Translation missing

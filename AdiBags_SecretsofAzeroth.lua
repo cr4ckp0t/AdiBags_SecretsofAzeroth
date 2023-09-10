@@ -70,6 +70,11 @@ function secretsFilter:OnInitialize()
         [208835] = true, -- Rose Gold Dust
         [208836] = true, -- Igneous Flux
 
+        -- Clue 11: A Proper Burial
+        [208852] = true, -- Maruuk Burial Banner
+        [208857] = true, -- The Path of Ishtaar Drawing
+        [209061] = true, -- Ishtaar Rethon's Burial Banner
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 
