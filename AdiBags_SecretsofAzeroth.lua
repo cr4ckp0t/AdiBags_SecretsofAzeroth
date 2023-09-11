@@ -66,7 +66,7 @@ function secretsFilter:OnInitialize()
 
         -- Clue 10: Forging is Key
         [208829] = true, -- Titan Key Materials List
-        [208830] = true, -- Reforged Titan Key
+        [208830] = true, -- Reforged Titan Keys
         [208835] = true, -- Rose Gold Dust
         [208836] = true, -- Igneous Flux
 
@@ -74,6 +74,10 @@ function secretsFilter:OnInitialize()
         [208852] = true, -- Maruuk Burial Banner
         [208857] = true, -- The Path of Ishtaar Drawing
         [209061] = true, -- Ishtaar Rethon's Burial Banner
+
+        -- Clue 12: Kirin Tor Knowledge
+        [208888] = true, -- Kirin Tor Contact's Note
+        [208889] = true, -- Tyr's Legacy
 
         -- Community Satchels
         [208142] = true, -- Buried Satchel

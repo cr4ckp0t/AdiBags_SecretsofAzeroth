@@ -76,6 +76,10 @@
 * [Maruuk Burial Banner](https://www.wowhead.com/item=208852)
 * [The Path of Ishtaar Drawing](https://www.wowhead.com/item=208857)
 
+### Clue 12: Kirin Tor Knowledge
+* [Kirin Tor Contact's Note](https://www.wowhead.com/item=208888)
+* [Tyr's Legacy](https://www.wowhead.com/item=208889)
+
 ## Community Satchels
 
 * [Buried Satchel](https://www.wowhead.com/item=208142)
