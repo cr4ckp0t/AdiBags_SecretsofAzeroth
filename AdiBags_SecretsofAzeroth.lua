@@ -79,6 +79,10 @@ function secretsFilter:OnInitialize()
         [208888] = true, -- Kirin Tor Contact's Note
         [208889] = true, -- Tyr's Legacy
 
+        -- Clue 13: Under Suspicion
+        [208929] = true, -- Great Places to Visit in Valdrakken
+        [208936] = true, -- Compiled Report
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 
