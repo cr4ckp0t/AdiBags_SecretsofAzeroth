@@ -85,7 +85,22 @@
 * [Great Places to Visit in Valdrakken](https://www.wowhead.com/item=208929)
 
 ### Day 13 (Clue 14/15): A Curious Orb
+* [Orb of Rathmus](https://www.wowhead.com/item=208944)
+* [Piece of the Orb of Rathmus](https://www.wowhead.com/item=209795)
+* [Piece of the Orb of Rathmus](https://www.wowhead.com/item=209797)
+* [Piece of the Orb of Rathmus](https://www.wowhead.com/item=209799)
 * [Preservationist's Dispatch Three](https://www.wowhead.com/item=208942)
+
+### Day 14 (Clue 15/15): The Race
+* [Ancient Tyrhold Artifact Notes](https://www.wowhead.com/item=208958)
+* [Large Titan Capacitor](https://www.wowhead.com/item=208973)
+* [Titan Block Key](https://www.wowhead.com/item=208965)
+* [Titan Block Key Fragment](https://www.wowhead.com/item=208967)
+* [Titan Cube](https://www.wowhead.com/item=208969)
+* [Titan Cube Housing](https://www.wowhead.com/item=208971)
+* [Titan Energy Core](https://www.wowhead.com/item=208970)
+* [Titan Focusing Crystal](https://www.wowhead.com/item=208960)
+
 
 ## Community Satchels
 

@@ -85,6 +85,20 @@ function secretsFilter:OnInitialize()
 
         -- Clue 14: A Curious Orb
         [208942] = true, -- Preservationist's Dispatch Three
+        [208944] = true, -- Orb of Rathmus
+        [209795] = true, -- Piece of the Orb of Rathmus
+        [209797] = true, -- Piece of the Orb of Rathmus
+        [209799] = true, -- Piece of the Orb of Rathmus
+
+        -- Clue 15: The Race
+        [208958] = true, -- Ancient Tyrhold Artifact Notes
+        [208960] = true, -- Titan Focusing Crystal
+        [208965] = true, -- Titan Block Key
+        [208967] = true, -- Titan Block Key Fragment
+        [208969] = true, -- Titan Cube
+        [208970] = true, -- Titan Energy Core
+        [208971] = true, -- Titan Cube Housing
+        [208973] = true, -- Large Titan Capacitor
 
         -- Community Satchels
         [208142] = true, -- Buried Satchel
