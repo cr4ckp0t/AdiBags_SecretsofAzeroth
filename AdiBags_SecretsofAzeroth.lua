@@ -83,6 +83,9 @@ function secretsFilter:OnInitialize()
         [208929] = true, -- Great Places to Visit in Valdrakken
         [208936] = true, -- Compiled Report
 
+        -- Clue 14: A Curious Orb
+        [208942] = true, -- Preservationist's Dispatch Three
+
         -- Community Satchels
         [208142] = true, -- Buried Satchel
 

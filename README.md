@@ -1,4 +1,4 @@
-# AdiBags SecretsofAzeroth
+# AdiBags - Secrets of Azeroth
 
 [AdiBags](https://www.curseforge.com/wow/addons/adibags) filter for items from the [Secrets of Azeroth](https://www.wowhead.com/event=1396/secrets-of-azeroth) event in World of Warcraft.
 
@@ -81,8 +81,11 @@
 * [Tyr's Legacy](https://www.wowhead.com/item=208889)
 
 ### Day 12 (Clue 13/15): Under Suspicion
-* [Compiled Report](https://www.wowhead.com/items=208936)
+* [Compiled Report](https://www.wowhead.com/item=208936)
 * [Great Places to Visit in Valdrakken](https://www.wowhead.com/item=208929)
+
+### Day 13 (Clue 14/15): A Curious Orb
+* [Preservationist's Dispatch Three](https://www.wowhead.com/item=208942)
 
 ## Community Satchels
 
